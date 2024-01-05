@@ -1,3 +1,4 @@
 here is some text,
-This is the text to integrate the second new feature
+/* Add some new text here */
+This is the text to integrate the second new feature /* Now add some new text here */
 Here is some more text
